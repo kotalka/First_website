@@ -48,9 +48,8 @@ main {
 
 header {
   box-sizing: border-box;
-  background-image: url('http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png');
   background-size: cover;
-  background-: no-repeat;
+  background: no-repeat;
   background-position: -250px;
   height: 300px;
   margin-top: -35px;
